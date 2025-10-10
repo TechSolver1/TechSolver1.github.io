@@ -10,5 +10,19 @@
         "name": "Technomancer"
     },
     "items": [
+        {
+            "id": "https://TechSolver1.github.io/whats-a-technomancer/",
+            "url": "https://TechSolver1.github.io/whats-a-technomancer/",
+            "title": "What&#x27;s a Technomancer?",
+            "summary": "A technomancer is a practitioner of technomancy: technomancy (n.) Have you ever brought in a troubleshooter to diagnose an issue&hellip;",
+            "content_html": "<p>A technomancer is a practitioner of technomancy:</p>\n<p><span class=\"headword-line\"><strong class=\"Latn headword\" lang=\"en\">technomancy</strong> (n.)</span></p>\n<ol>\n<li>A form of magical ability that either <a href=\"https://en.wiktionary.org/wiki/affect#English\" title=\"affect\"></a>affects technology, is used through technology, or is gained through the use of technology.</li>\n<li>The blending of magic and technology.</li>\n</ol>\n<p> </p>\n<p>Have you ever brought in a troubleshooter to diagnose an issue to find the issue nonexistent the entire time the troubleshooter is near?  If so, you've seen technomancy in action.</p>",
+            "author": {
+                "name": "Technomancer"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-10T08:12:19-05:00",
+            "date_modified": "2025-10-10T08:12:19-05:00"
+        }
     ]
 }

@@ -3,10 +3,37 @@
     <title>Technomancer Solutions</title>
     <link href="https://TechSolver1.github.io/feed.xml" rel="self" />
     <link href="https://TechSolver1.github.io" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2025-10-10T08:12:19-05:00</updated>
     <author>
         <name>Technomancer</name>
     </author>
     <id>https://TechSolver1.github.io</id>
 
+    <entry>
+        <title>What&#x27;s a Technomancer?</title>
+        <author>
+            <name>Technomancer</name>
+        </author>
+        <link href="https://TechSolver1.github.io/whats-a-technomancer/"/>
+        <id>https://TechSolver1.github.io/whats-a-technomancer/</id>
+
+        <updated>2025-10-10T08:12:19-05:00</updated>
+            <summary>
+                <![CDATA[
+                    A technomancer is a practitioner of technomancy: technomancy (n.) Have you ever brought in a troubleshooter to diagnose an issue&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A technomancer is a practitioner of technomancy:</p>
+<p><span class="headword-line"><strong class="Latn headword" lang="en">technomancy</strong> (n.)</span></p>
+<ol>
+<li>A form of magical ability that either <a href="https://en.wiktionary.org/wiki/affect#English" title="affect"></a>affects technology, is used through technology, or is gained through the use of technology.</li>
+<li>The blending of magic and technology.</li>
+</ol>
+<p> </p>
+<p>Have you ever brought in a troubleshooter to diagnose an issue to find the issue nonexistent the entire time the troubleshooter is near?  If so, you've seen technomancy in action.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
